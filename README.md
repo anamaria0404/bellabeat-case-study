@@ -60,8 +60,7 @@ Active users sleep more than sedentary users.
 ---
 
 ## 🎥 Presentation  
-https://www.canva.com/design/DAG-N37u3Mc/r_1RfiYzdQq0LOa-h6nBNA/edit?utm_content=DAG-N37u3Mc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
----
+[(https://www.canva.com/design/DAG-N37u3Mc/2Ly9ijIkUn_gUh8b4ON6Vw/view?utm_content=DAG-N37u3Mc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he157c9b7bd)]--
 
 ## 🛠 Tools Used  
 - Excel / Google Sheets  
